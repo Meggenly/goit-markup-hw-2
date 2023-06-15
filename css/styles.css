@@ -16,6 +16,7 @@ body{
 }
 
 .studiologoheader {
+        font-family: 'Raleway';
         font-style: normal;
         font-weight: 800;
         font-size: 18px;
@@ -25,15 +26,14 @@ body{
         color: var(--dark-color);
 }
 
-.studiologoheader {
-        font-family: Raleway;
-        font-size: 18px;
-        font-weight: 800;
-        line-height: 21px;
-        letter-spacing: 0.03em;
-        text-align: left;
-        background: #4D5AE5;
-        ;
+.topline {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5em;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
 }
 
 .header-link { 
@@ -45,16 +45,6 @@ body{
     text-decoration: none;
 }
 
-
-.studiologoheader{
-        font-family: Raleway;
-        font-size: 18px;
-        font-weight: 800;
-        line-height: 21px;
-        letter-spacing: 0.03em;
-        text-align: left;
-        background: #4D5AE5;;
-}
 
 .filters{
         height: 48px;
@@ -70,10 +60,22 @@ body{
 
 }
 
+.namecard{     
 
+         font-style: normal;
+         font-weight: 500;
+         font-size: 20px;
+         line-height: 1.2em;
+         letter-spacing: 0.02em;
+         color: #2E2F42;
+}
 
+   .appnamecard{
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height:1.5em;
+        letter-spacing: 0.02em;
+        color: #434455;
 
-
-
-
-
+   }   
