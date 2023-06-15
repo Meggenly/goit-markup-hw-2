@@ -1,0 +1,79 @@
+:root{
+background-color: white;
+}
+body{
+        font-family: "Roboto"sans-serif; 
+        color: #434455;   
+        background-color: #FFFFFF;      
+}
+
+.link{
+    text-decoration: none;
+}
+
+.list{
+      list-style: none;
+}
+
+.studiologoheader {
+        font-style: normal;
+        font-weight: 800;
+        font-size: 18px;
+        line-height: 1.17;
+        text-transform: uppercase;
+        letter-spacing: 0.03em;
+        color: var(--dark-color);
+}
+
+.studiologoheader {
+        font-family: Raleway;
+        font-size: 18px;
+        font-weight: 800;
+        line-height: 21px;
+        letter-spacing: 0.03em;
+        text-align: left;
+        background: #4D5AE5;
+        ;
+}
+
+.header-link { 
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.66;
+    letter-spacing: 0.03em;
+    color: var(--color-text);
+    text-decoration: none;
+}
+
+
+.studiologoheader{
+        font-family: Raleway;
+        font-size: 18px;
+        font-weight: 800;
+        line-height: 21px;
+        letter-spacing: 0.03em;
+        text-align: left;
+        background: #4D5AE5;;
+}
+
+.filters{
+        height: 48px;
+        width: 69px;
+        left: 0px;
+        top: 0px;
+        border-radius: 4px;
+        padding: 12px 24px 12px 24px;
+        background: #404BBF;;
+}
+.button{
+    cursor: pointer;
+
+}
+
+
+
+
+
+
+
+
