@@ -10,8 +10,6 @@ body{
         background-color: #FFFFFF;      
 }
 
-
-
 .link{
     text-decoration: none;
 }
@@ -20,7 +18,6 @@ body{
       list-style: none;
 }
  
-
 /* -------------HEADER--------------- */
   /* ---------logo-------- */
 
@@ -72,9 +69,6 @@ body{
     color: var(--accent-color);
   }
 
-!!!!!!
-
-
 
 /* ---------  main -------- */
 .button {
@@ -91,7 +85,7 @@ body{
         background: #404BBF;
         ;
 }
-!!!!!!!!
+
 
 
 .namecard{     
