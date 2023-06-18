@@ -1,10 +1,5 @@
 
 
-
-
-
-
-
 :root{
 background-color: white;
 }
@@ -20,7 +15,7 @@ body{
 }
 
 .list{
-      list-style: none;
+      list-style-type: none;
 }
  
 /* -------------HEADER--------------- */
@@ -91,8 +86,6 @@ body{
         ;
 }
 
-
-
 .namecard{     
 
          font-style: normal;
@@ -113,7 +106,9 @@ body{
         color: #434455;
 
    }   
-.footer-text {   
+.footer-text {  
+        
+       
         font-size: 16px;
         font-weight: 400;
         line-height: 1.5;
@@ -122,7 +117,7 @@ body{
 }
                
 .footlogo{
-        font-family: Raleway;
+      
         font-size: 18px;
         font-weight: 800;
         line-height: 1.166;
