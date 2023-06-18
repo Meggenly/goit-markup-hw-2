@@ -117,12 +117,15 @@ body{
 }
                
 .footlogo{
-      
+
+        font-family: Raleway;
         font-size: 18px;
         font-weight: 800;
         line-height: 1.166;
         letter-spacing: 0.03em;
         background-color: #4D5AE5;
+        text-align: left;
+
 }
 
 
